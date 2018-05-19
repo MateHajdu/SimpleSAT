@@ -1,1 +1,1 @@
-"# SimpleSAT" 
+SimpleSAT solution
